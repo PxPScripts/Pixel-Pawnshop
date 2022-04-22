@@ -2,7 +2,7 @@
 Redesigned of another script
 
 ### Requirements
-- T-Notify
+- T-Notify - https://github.com/TasoOneAsia/t-notify
 
 ### Showcase
 - https://imgur.com/a/n4LHS3R
