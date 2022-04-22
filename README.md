@@ -8,7 +8,7 @@ Redesigned of another script
 - https://imgur.com/a/n4LHS3R
 
 ### Original Script
-- Can't Find:/
+- https://github.com/Praryo/pyrp_crafting
 
 ## DISCORD
 - https://discord.gg/e3S4Svrewg
