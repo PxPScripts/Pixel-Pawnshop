@@ -1,8 +1,10 @@
 # Pixel-Pawnshop
 Redesigned of another script
 
+### DONT DOWNLOAD UNDTIL NEW VERSION!
+
 ### Requirements
-- T-Notify - https://github.com/TasoOneAsia/t-notify
+- ESX Legacy
 
 ### Showcase
 - https://imgur.com/a/n4LHS3R
