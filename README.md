@@ -1,8 +1,6 @@
 # Pixel-Pawnshop
 Redesigned of another script
 
-### DONT DOWNLOAD UNDTIL NEW VERSION!
-
 ### Requirements
 - ESX Legacy
 
