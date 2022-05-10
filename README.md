@@ -5,7 +5,8 @@ Redesigned of another script
 - ESX Legacy
 
 ### Showcase
-- https://imgur.com/a/n4LHS3R
+- https://imgur.com/a/HtNX5T6 = Menu
+- https://imgur.com/Yw97FtL = Jens
 
 ### Original Script
 - https://github.com/Praryo/pyrp_crafting
